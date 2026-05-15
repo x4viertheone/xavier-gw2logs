@@ -1,0 +1,40 @@
+{
+  "colorPalette": "crimson-red",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260514-194814-nu2k",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-05-15T00:48:14.000Z",
+      "dateEnd": "2026-05-15T02:46:38.000Z",
+      "dateLabel": "5/14/2026, 7:48:14 PM - 5/14/2026, 9:46:38 PM",
+      "url": "https://x4viertheone.github.io/xavier-gw2logs/?report=20260514-194814-nu2k",
+      "summary": {
+        "borderlandsPct": 0.56,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    }
+  ]
+}
